@@ -39,18 +39,7 @@
 *::after {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
-/* My video css */
-.row-video{
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-}
-.col-row {
-  flex-basis: 50%;
-  min-width: 250px;
-}
-
-/* closting */
+  
 html {
   font-family: sans-serif;
   line-height: 1.15;
